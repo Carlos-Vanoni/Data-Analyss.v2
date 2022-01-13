@@ -44,11 +44,11 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 
 002ç2345675433444345çEduardoPereiraçRural
 
-003ç11ç [1-34-10,2-33-1.50,3-6-3] çDiego
+003ç12ç [1-34-10,2-33-1.50,3-6-3] çDiego
 
-003ç11ç [1-45-13,2-73-4.50,3-7-3] çDiego
+003ç13ç [1-45-13,2-73-4.50,3-7-3] çDiego
 
-003ç11ç [1-10-10,2-45-5,3-6-6.65] çRenato
+003ç14ç [1-10-10,2-45-5,3-6-6] çRenato
 
 
 ### Relatório de Saída:
@@ -58,8 +58,8 @@ Amount saleman: 2
 
 Most expansive sale(s):
 
-ID: 11 - Price: 407.5
+ID: 13 - Price: 934.5
 
 Worse saleman(s):
 
-Saleman: Renato - price of sale: 0.0
+Saleman: Renato - price of sale: 361.0
