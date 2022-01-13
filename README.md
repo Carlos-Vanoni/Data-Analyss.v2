@@ -46,9 +46,9 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 
 
 ### Relatório de Saída:
-`Amount customers: 2\n
-Amount saleman: 2\n
-Most expansive sale(s):\n
-ID: 11 - Price: 407.5\n
-Worse saleman(s):\n
-Saleman: Renato - price of sale: 0.0\n`
+`Amount customers: 2__
+Amount saleman: 2__
+Most expansive sale(s):__
+ID: 11 - Price: 407.5__
+Worse saleman(s):__
+Saleman: Renato - price of sale: 0.0__`
