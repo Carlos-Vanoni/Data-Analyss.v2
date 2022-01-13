@@ -36,19 +36,19 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 ## Exemplo de Dados:
 
 ### Dado de Entrada: 
-001ç1234567891234çDiegoç50000
-001ç3245678865434çRenatoç40000.99
-002ç2345675434544345çJose da silvaçRural
-002ç2345675433444345çEduardoPereiraçRural
-003ç11ç [1-34-10,2-33-1.50,3-6-3] çDiego
-003ç11ç [1-45-13,2-73-4.50,3-7-3] çDiego
-003ç11ç [1-10-10,2-45-5,3-6-6.65] çRenato
+001ç1234567891234çDiegoç50000\n
+001ç3245678865434çRenatoç40000.99\n
+002ç2345675434544345çJose da silvaçRural\n
+002ç2345675433444345çEduardoPereiraçRural\n
+003ç11ç [1-34-10,2-33-1.50,3-6-3] çDiego\n
+003ç11ç [1-45-13,2-73-4.50,3-7-3] çDiego\n
+003ç11ç [1-10-10,2-45-5,3-6-6.65] çRenato\n
 
 
 ### Relatório de Saída:
-Amount customers: 2
-Amount saleman: 2
-Most expansive sale(s):
-ID: 11 - Price: 407.5
-Worse saleman(s):
-Saleman: Renato - price of sale: 0.0
+Amount customers: 2\n
+Amount saleman: 2\n
+Most expansive sale(s):\n
+ID: 11 - Price: 407.5\n
+Worse saleman(s):\n
+Saleman: Renato - price of sale: 0.0\n
